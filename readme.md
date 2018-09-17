@@ -1,1 +1,1 @@
-https://ancient-ocean-18521.herokuapp.com/index.php
+https://stutmedrecordproj.000webhostapp.com/stutProj/index.php
